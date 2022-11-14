@@ -1,0 +1,432 @@
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []
+Loaded 0 rows of data for BNB_USDT from /home/v0lp/freqtradesource/user_data/data/binance
+Empty DataFrame
+Columns: [date, open, high, low, close, volume]
+Index: []

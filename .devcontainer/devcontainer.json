@@ -30,10 +30,11 @@
 
     // Add the IDs of extensions you want installed when the container is created.
     "extensions": [
-        "ms-python.python",
-        "ms-python.vscode-pylance",
-        "davidanson.vscode-markdownlint",
-        "ms-azuretools.vscode-docker",
-        "vscode-icons-team.vscode-icons",
-    ],
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"davidanson.vscode-markdownlint",
+		"ms-azuretools.vscode-docker",
+		"vscode-icons-team.vscode-icons",
+		"frhtylcn.pythonsnippets"
+	],
 }
